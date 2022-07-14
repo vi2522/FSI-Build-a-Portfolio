@@ -1,0 +1,69 @@
+body {
+    background-color: navy;
+}
+
+.nav {
+    position: relative;
+    left: 50px;
+    background-color: rgb(3, 3, 54);
+}
+
+h1, h2 {
+    position: relative;
+    left: 60px;
+    background-color: rgb(3, 3, 54);
+}
+
+#intro {
+    position: relative;
+    left: 60px;
+}
+
+h1, h2, h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(193, 192, 192);
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(167, 167, 247);
+}
+
+.content {
+    position: relative;
+    left: 60px;
+}
+
+#about-me {
+    position: relative;
+    left: 600px;
+    top: -475px;
+    background-color: rgb(67, 54, 93);
+    border-radius: 8px;
+    border: 2px #ddd;
+}
+
+.info {
+    position: relative;
+    top: -400px;
+}
+
+#fav {
+    position: relative;
+    left: 60px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+img {
+    border-radius: 8px;
+    border: 1px solid rgb(0, 200, 255);
+    padding: 5px;
+    width: 500px;
+}
+
+ul {
+    position: relative;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(167, 167, 247);
+}
